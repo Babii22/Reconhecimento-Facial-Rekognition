@@ -1,0 +1,290 @@
+{
+    "CelebrityFaces": [
+        {
+            "Urls": [
+                "www.wikidata.org/wiki/Q160009",
+                "www.imdb.com/name/nm0600877"
+            ],
+            "Name": "Pink",
+            "Id": "aH23U",
+            "Face": {
+                "BoundingBox": {
+                    "Width": 0.19251301884651184,
+                    "Height": 0.17978926002979279,
+                    "Left": 0.29201188683509827,
+                    "Top": 0.16770881414413452
+                },
+                "Confidence": 99.95848846435547,
+                "Landmarks": [
+                    {
+                        "Type": "mouthRight",
+                        "X": 0.4238608479499817,
+                        "Y": 0.29978665709495544
+                    },
+                    {
+                        "Type": "eyeLeft",
+                        "X": 0.373041033744812,
+                        "Y": 0.2317938506603241
+                    },
+                    {
+                        "Type": "mouthLeft",
+                        "X": 0.36056584119796753,
+                        "Y": 0.2890835702419281
+                    },
+                    {
+                        "Type": "eyeRight",
+                        "X": 0.4489181637763977,
+                        "Y": 0.24487319588661194
+                    },
+                    {
+                        "Type": "nose",
+                        "X": 0.4192694127559662,
+                        "Y": 0.2667478919029236
+                    }
+                ],
+                "Pose": {
+                    "Roll": 17.175336837768555,
+                    "Yaw": 16.904062271118164,
+                    "Pitch": 11.386964797973633
+                },
+                "Quality": {
+                    "Brightness": 89.24992370605469,
+                    "Sharpness": 12.848764419555664
+                },
+                "Emotions": [
+                    {
+                        "Type": "HAPPY",
+                        "Confidence": 99.34895324707031
+                    },
+                    {
+                        "Type": "CALM",
+                        "Confidence": 0.1560211181640625
+                    },
+                    {
+                        "Type": "SURPRISED",
+                        "Confidence": 0.08386373519897461
+                    },
+                    {
+                        "Type": "CONFUSED",
+                        "Confidence": 0.0032335519790649414
+                    },
+                    {
+                        "Type": "DISGUSTED",
+                        "Confidence": 0.0025987625122070312
+                    },
+                    {
+                        "Type": "ANGRY",
+                        "Confidence": 0.0018298625946044922
+                    },
+                    {
+                        "Type": "FEAR",
+                        "Confidence": 0.0013530254364013672
+                    },
+                    {
+                        "Type": "SAD",
+                        "Confidence": 0.00016689300537109375
+                    }
+                ],
+                "Smile": {
+                    "Value": true,
+                    "Confidence": 99.85688781738281
+                }
+            },
+            "MatchConfidence": 99.9982681274414,
+            "KnownGender": {
+                "Type": "Female"
+            }
+        },
+        {
+            "Urls": [
+                "www.wikidata.org/wiki/Q26876",
+                "www.imdb.com/name/nm2357847"
+            ],
+            "Name": "Taylor Swift",
+            "Id": "432Vg7K",
+            "Face": {
+                "BoundingBox": {
+                    "Width": 0.18581898510456085,
+                    "Height": 0.16308827698230743,
+                    "Left": 0.5382545590400696,
+                    "Top": 0.08735614269971848
+                },
+                "Confidence": 99.98548126220703,
+                "Landmarks": [
+                    {
+                        "Type": "mouthRight",
+                        "X": 0.6524585485458374,
+                        "Y": 0.20252254605293274
+                    },
+                    {
+                        "Type": "eyeLeft",
+                        "X": 0.5732364058494568,
+                        "Y": 0.14718593657016754
+                    },
+                    {
+                        "Type": "mouthLeft",
+                        "X": 0.5863869786262512,
+                        "Y": 0.20410718023777008
+                    },
+                    {
+                        "Type": "eyeRight",
+                        "X": 0.6520124077796936,
+                        "Y": 0.1449950933456421
+                    },
+                    {
+                        "Type": "nose",
+                        "X": 0.6030496954917908,
+                        "Y": 0.18175053596496582
+                    }
+                ],
+                "Pose": {
+                    "Roll": -4.453712463378906,
+                    "Yaw": -13.35969066619873,
+                    "Pitch": -4.026706218719482
+                },
+                "Quality": {
+                    "Brightness": 79.25789642333984,
+                    "Sharpness": 7.589449882507324
+                },
+                "Emotions": [
+                    {
+                        "Type": "HAPPY",
+                        "Confidence": 95.76823425292969
+                    },
+                    {
+                        "Type": "SURPRISED",
+                        "Confidence": 0.6947517395019531
+                    },
+                    {
+                        "Type": "CALM",
+                        "Confidence": 0.55999755859375
+                    },
+                    {
+                        "Type": "CONFUSED",
+                        "Confidence": 0.05710124969482422
+                    },
+                    {
+                        "Type": "DISGUSTED",
+                        "Confidence": 0.02073049545288086
+                    },
+                    {
+                        "Type": "ANGRY",
+                        "Confidence": 0.007802248001098633
+                    },
+                    {
+                        "Type": "SAD",
+                        "Confidence": 0.0012040138244628906
+                    },
+                    {
+                        "Type": "FEAR",
+                        "Confidence": 0.0005811452865600586
+                    }
+                ],
+                "Smile": {
+                    "Value": true,
+                    "Confidence": 97.39730072021484
+                }
+            },
+            "MatchConfidence": 99.9964370727539,
+            "KnownGender": {
+                "Type": "Female"
+            }
+        }
+    ],
+    "UnrecognizedFaces": [
+        {
+            "BoundingBox": {
+                "Width": 0.07483680546283722,
+                "Height": 0.06983736157417297,
+                "Left": 0.9196046590805054,
+                "Top": 0.20701728761196136
+            },
+            "Confidence": 87.57324981689453,
+            "Landmarks": [
+                {
+                    "Type": "mouthRight",
+                    "X": 0.9805498123168945,
+                    "Y": 0.264026403427124
+                },
+                {
+                    "Type": "eyeLeft",
+                    "X": 0.943742036819458,
+                    "Y": 0.2331630438566208
+                },
+                {
+                    "Type": "mouthLeft",
+                    "X": 0.9496276378631592,
+                    "Y": 0.26529625058174133
+                },
+                {
+                    "Type": "eyeRight",
+                    "X": 0.9808770418167114,
+                    "Y": 0.2318236529827118
+                },
+                {
+                    "Type": "nose",
+                    "X": 0.9707210063934326,
+                    "Y": 0.2482752799987793
+                }
+            ],
+            "Pose": {
+                "Roll": -0.6151589751243591,
+                "Yaw": 11.87238883972168,
+                "Pitch": 5.764684677124023
+            },
+            "Quality": {
+                "Brightness": 12.590709686279297,
+                "Sharpness": 1.0484901666641235
+            },
+            "Emotions": [
+                {
+                    "Type": "CALM",
+                    "Confidence": 40.81380081176758
+                },
+                {
+                    "Type": "SURPRISED",
+                    "Confidence": 14.9462890625
+                },
+                {
+                    "Type": "FEAR",
+                    "Confidence": 9.918212890625
+                },
+                {
+                    "Type": "DISGUSTED",
+                    "Confidence": 4.5867919921875
+                },
+                {
+                    "Type": "SAD",
+                    "Confidence": 2.6336669921875
+                },
+                {
+                    "Type": "ANGRY",
+                    "Confidence": 2.484130859375
+                },
+                {
+                    "Type": "HAPPY",
+                    "Confidence": 2.1321616172790527
+                },
+                {
+                    "Type": "CONFUSED",
+                    "Confidence": 0.743865966796875
+                }
+            ],
+            "Smile": {
+                "Value": false,
+                "Confidence": 89.26055145263672
+            }
+        }
+    ],
+    "ResponseMetadata": {
+        "RequestId": "e09d9c13-4202-42f7-9e53-d4c4c946552e",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "x-amzn-requestid": "e09d9c13-4202-42f7-9e53-d4c4c946552e",
+            "content-type": "application/x-amz-json-1.1",
+            "content-length": "3786",
+            "date": "Fri, 07 Mar 2025 02:36:12 GMT"
+        },
+        "RetryAttempts": 0
+    }
+}
